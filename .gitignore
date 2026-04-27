@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+logs/
+.env
+.claude/
+
+# 23MB 합성 페르소나 샘플은 sample_personas.py 로 재현 가능 (NVIDIA Nemotron-Personas-Korea, CC BY 4.0)
+data/personas_sample.json
